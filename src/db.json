@@ -1,0 +1,42 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "qogal",
+      "price": "2",
+      "count": 0
+    },
+    {
+      "id": 2,
+      "name": "shekerbura",
+      "price": "5",
+      "count": 0
+    },
+    {
+      "id": 3,
+      "name": "paxlava",
+      "price": 4,
+      "count": 0
+    },
+    {
+      "id": "4",
+      "name": "",
+      "image": "",
+      "price": 0,
+      "prevprice": 0,
+      "count": 0,
+      "infonew": "",
+      "infosale": ""
+    },
+    {
+      "id": "5",
+      "name": "",
+      "image": "",
+      "price": 0,
+      "prevprice": 0,
+      "count": 0,
+      "infonew": "",
+      "infosale": "hj"
+    }
+  ]
+}
